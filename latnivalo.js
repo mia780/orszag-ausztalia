@@ -3,7 +3,7 @@ let latnivalok= [
       "nev":"Parlament Canberra",
       "leiras":"Nagy épületegyüttes, ahol Ausztrália parlamentje működik 1988 óta, tetején egy 81 méteres zászlórúddal.", 
 
-      "kep_link":"https://lh3.googleusercontent.com/gps-cs-s/AB5caB_bYv7Sh9MPLVsAun8IcQHhPl3UIHV5_G_soUC3dodSgBFEk2tlB7c659cFs6G82WBIEsEHt7qTdtpmPeARjpbbIlXSPbbfmQt3enrHAwGIEsKDRhl3XNTr9526XP8sKtmPKQp1MA=s680-w680-h510",
+      "kep_link":"https://www.aph.gov.au/Visit_Parliament/Things_to_Do/Take_in_some_history",
     },
   {
     "nev": "Sydney operaház",

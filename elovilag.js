@@ -1,9 +1,14 @@
 let elovilag=[
 {
+    
     "nev":"Kenguru",
     "kep":"https://ma7media.storage.googleapis.com/sites/default/files/styles/freeform_large_9_2x/s3/2024-06/kengurutamadas.jpg?itok=O1pxTUiv"
 
 },
+{
+    "nev":"Mérges kígyó  Demansia cyanochasma ",
+    "kep":"https://assets.4cdn.hu/kraken/7vOPV8DfCXRQCu9gs.jpeg",  
+  },
 {
     "nev": "Koala",
     "kep":"https://www.wwf.org.uk/sites/default/files/styles/max_650x650/public/2022-05/_WW236934.jpg?itok=JlG-1l9V",
