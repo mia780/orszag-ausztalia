@@ -12,9 +12,15 @@
     object-fit: contain;
     width: 100px;  
 }
+.torkep{
+    margin: auto;
+    object-fit: contain;
+    width: 150px;  
+}
 .carousel {
     margin: auto;
     width: 50%;
+    
 }
 .eteldiv img {
     width: 300px;

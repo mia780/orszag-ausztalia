@@ -3,7 +3,7 @@ let latnivalok= [
       "nev":"Parlament Canberra",
       "leiras":"Nagy épületegyüttes, ahol Ausztrália parlamentje működik 1988 óta, tetején egy 81 méteres zászlórúddal.", 
 
-      "kep_link":"https://peo.gov.au/understand-our-parliament/parliament-house/parliament-house",
+      "kep_link":"https://lh3.googleusercontent.com/gps-cs-s/AC9h4nomoA_-ptHPIe84etDjb2CB5e2xdktahqkrPAcfTatWBCLVNGh23b8ndJyq5mLP0ZmDlZs9gtYRXjWEtw_58ARfZk2Ez0rC_1PxBpfdxWuJs9of1UhxPlnkonwH17pY4BWVzWXwqg=s1360-w1360-h1020",
     },
   {
     "nev": "Sydney operaház",
@@ -13,7 +13,7 @@ let latnivalok= [
   },
   {
     "nev":"Uluru",
-    "leiras": "Az UNESCO Világörökség részét képező Uluru, más néven Ayers Rock, egy hatalmas vörös homokkőszikla Ausztrália közepén. Az őslakosok számára szent hely, és a nap különböző szakaszaiban változó színei lenyűgöző látványt nyújtanak.",
+    "leiras": "Az UNESCO Világörökség részét képező Uluru, más néven Ayers Rock, egy hatalmas vörös homokkőszikla Ausztrália közepén. Az őslakosok számára szent hely, és a nap különböző szakaszaiban változó színei lenyűgöző látványt nyújt.",
     "kep_link":"https://utazaskatalogus.hu/wp-content/uploads/2023/04/utazaskatalogus-ausztralia-legszebb-helyei-uluru.jpg"
   },
   {
@@ -23,7 +23,7 @@ let latnivalok= [
   },
   {
     "nev":"MacDonnell-tó",
-    "leiras":"Dél-Ausztráliában található különleges tó, amely két színű: egyik oldala kék, másik rózsaszín. A látványt egy különleges alga okozza, és a tó fentről nézve a leglenyűgözőbb.",
+    "leiras":"Dél-Ausztráliában található különleges tó, amely két színű: egyik oldala kék, másik rózsaszín. A látványt egy különleges alga okozza. A tó fentről nézve lenyűgöző.",
     "kep_link":"https://player.hu/uploads/2022/04/porsche-lake-macdonnell-6.jpg",
   },
   {
@@ -38,7 +38,7 @@ let latnivalok= [
   },
   {
     "nev":"Great Ocean Road",
-    "leiras":"Ausztrál nemzeti örökség része.E rész legnagyobb látványossága a 12 Apostol, egy mészkő-oszlop csoport az óceánban. Sajnos néhány az erózió miatt már nem áll, de ikonikus része az útnak.",
+    "leiras":"Ausztrál nemzeti örökség része. E rész legnagyobb látványossága a 12 Apostol, egy mészkő-oszlop csoport az óceánban. Sajnos néhány az erózió miatt már nem áll, de ikonikus része az útnak.",
     "kep_link":"https://utazaskatalogus.hu/wp-content/uploads/2023/04/utazaskatalogus-ausztralia-legszebb-helyei-apostolok.jpg",
   },
   {

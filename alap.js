@@ -8,6 +8,9 @@ document.getElementById("Menu").innerHTML=`
           <div class="collapse navbar-collapse" id="collapsibleNavbar">
             <ul class="navbar-nav">
               <li class="nav-item">
+                <a class="nav-link" href="tortenelem.html">Történelem</a>
+              </li>
+              <li class="nav-item">
                 <a class="nav-link" href="fontostudnivalo.html">Fontos tudnivalók</a>
                 </li>
                <li class="nav-item">

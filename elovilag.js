@@ -1,14 +1,9 @@
 let elovilag=[
 {
-    
     "nev":"Kenguru",
     "kep":"https://ma7media.storage.googleapis.com/sites/default/files/styles/freeform_large_9_2x/s3/2024-06/kengurutamadas.jpg?itok=O1pxTUiv"
 
 },
-{
-    "nev":"Mérges kígyó: Kispikkelyű tajpán  ",
-    "kep":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Fierce_Snake-Oxyuranus_microlepidotus.jpg",  
-  },
 {
     "nev": "Koala",
     "kep":"https://www.wwf.org.uk/sites/default/files/styles/max_650x650/public/2022-05/_WW236934.jpg?itok=JlG-1l9V",
@@ -65,7 +60,7 @@ let elovilag=[
     "kep":"https://upload.wikimedia.org/wikipedia/commons/9/9d/Emu_1_-_Tidbinbilla.jpg",
 },
 {
-    "nev": "Korallszirtihal",
+    "nev": "Korallszirti hal",
     "kep":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Amblyglyphidodon_curacao.jpg/1280px-Amblyglyphidodon_curacao.jpg",
 },
 {
