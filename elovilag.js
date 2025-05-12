@@ -6,8 +6,8 @@ let elovilag=[
 
 },
 {
-    "nev":"Mérges kígyó  Demansia cyanochasma ",
-    "kep":"https://assets.4cdn.hu/kraken/7vOPV8DfCXRQCu9gs.jpeg",  
+    "nev":"Mérges kígyó: Kispikkelyű tajpán  ",
+    "kep":"https://upload.wikimedia.org/wikipedia/commons/f/fe/Fierce_Snake-Oxyuranus_microlepidotus.jpg",  
   },
 {
     "nev": "Koala",
